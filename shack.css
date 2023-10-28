@@ -187,6 +187,8 @@ details p {
   font-size: 30px;
   line-height: 50px;
   border-radius: 25px;
+  display: flex;
+  flex-wrap: wrap;
   
 }
 /* END DEV TEAM */
